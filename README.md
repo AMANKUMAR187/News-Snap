@@ -6,11 +6,16 @@
 APP DEVELOPMENT [FLUTTER FRAMEWORK]
 
 ## Description
- fetching news using news API
-1: – Implemented JWT authentication for secure access.
-2: – Developed functionality to fetch and display news on various topics.
-3: – Enabled users to save any headline in a personalized Notes section.
-4: – Designed a profile screen to display user details
+1: - fetching news using news API.
+
+2: – Implemented JWT authentication for secure access.
+
+3: – Developed functionality to fetch and display news on various topics.
+
+4: – Enabled users to save any headline in a personalized Notes section.
+
+5: – Designed a profile screen to display user details
+
 
 ## TECH Stack
 - **Language:** `DART`
